@@ -1,6 +1,9 @@
 
 baseURL = "https://alexwilliams.org"
 
+# set the build directory to a name that GH pages likes
+publishDir = "docs"
+
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
