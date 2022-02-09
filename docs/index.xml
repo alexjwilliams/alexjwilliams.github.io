@@ -6,40 +6,24 @@
     <description>Recent content on Alex Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2020, Alex Williams.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://alexwilliams.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020, Alex Williams.</copyright><atom:link href="https://alexwilliams.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://alexwilliams.org/markdown-syntax-guide/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Notes</title>
+      <link>https://alexwilliams.org/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexwilliams.org/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://alexwilliams.org/notes/</guid>
+      <description>Notes Here are some notes that I have written.
+ computer-program-basics.pdf  </description>
     </item>
     
     <item>
-      <title>Bear</title>
-      <link>https://alexwilliams.org/bear/</link>
+      <title>Reading List</title>
+      <link>https://alexwilliams.org/reading-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexwilliams.org/bear/</guid>
-      <description>Bear Website: https://bearblog.dev
-There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
-Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.
-Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://alexwilliams.org/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexwilliams.org/hugo/</guid>
-      <description>Hugo Website: https://gohugo.io
-Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <guid>https://alexwilliams.org/reading-list/</guid>
+      <description>Reading List </description>
     </item>
     
   </channel>

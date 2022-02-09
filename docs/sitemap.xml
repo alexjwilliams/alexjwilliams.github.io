@@ -4,36 +4,15 @@
   
   <url>
     <loc>https://alexwilliams.org/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexwilliams.org/blog/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <loc>https://alexwilliams.org/notes/</loc>
   </url>
   
   <url>
-    <loc>https://alexwilliams.org/blog/markdown/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexwilliams.org/markdown-syntax-guide/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexwilliams.org/blog/syntax/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexwilliams.org/bear/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alexwilliams.org/hugo/</loc>
+    <loc>https://alexwilliams.org/reading-list/</loc>
   </url>
   
 </urlset>
